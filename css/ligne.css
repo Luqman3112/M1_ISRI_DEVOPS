@@ -3,5 +3,9 @@ h1 { color: green; font-size: 24px; }
 
 
 
+
 footer, .copyright, div:last-child { font-size: 12px; }
 footer, .copyright, div:last-child { color: #666; }
+
+.menu { background-color: #98fb98; color: white; }
+
